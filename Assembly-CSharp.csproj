@@ -64,13 +64,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
-    <None Include="Assets\_Import\UnityHDRI\Trinitatis Church\Info.txt" />
-    <None Include="Assets\_Import\UnityHDRI\Gareoult\Info.txt" />
     <None Include="Assets\_Import\UnityHDRI\KirbyCove\Info.txt" />
-    <None Include="Assets\_Import\UnityHDRI\Unite\Info.txt" />
-    <None Include="Assets\_Import\UnityHDRI\TreasureIsland\Info.txt" />
-    <None Include="Assets\_Import\UnityHDRI\Seaside\Info.txt" />
-    <None Include="Assets\_Import\UnityHDRI\MuirWood\Info.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>E:/Unity Workspace/Spooky-Cellar-HDRP-Demo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
