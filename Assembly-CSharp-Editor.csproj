@@ -111,6 +111,12 @@
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>E:/Unity Workspace/Spooky-Cellar-HDRP-Demo/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.VisualEffectGraph.Runtime">
+      <HintPath>E:/Unity Workspace/Spooky-Cellar-HDRP-Demo/Library/ScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualEffectGraph.Editor">
+      <HintPath>E:/Unity Workspace/Spooky-Cellar-HDRP-Demo/Library/ScriptAssemblies/Unity.VisualEffectGraph.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/Unity/2019.1.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
     </Reference>
